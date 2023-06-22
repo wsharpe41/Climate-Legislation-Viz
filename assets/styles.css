@@ -1,0 +1,18 @@
+.graph{
+    width: 100%;
+    height: 100%;
+    
+}
+.graph .plot-container .title{
+    text-align: center;
+    color: red;
+}
+
+#no-targets{
+    color: red;
+    padding-bottom: 0%;
+}
+
+h2{
+    text-align: center;
+}
